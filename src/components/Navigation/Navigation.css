@@ -1,0 +1,6 @@
+nav {
+    border-bottom: 5px solid black;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    background-color: rgba(38, 91, 238, 0.5);
+  }
